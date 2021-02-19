@@ -23,3 +23,5 @@ The following steps describe what you need to do to complete the table example. 
 6. Add attributes to make the row and column headers unambiguously associated with the rows, columns, or rowgroups that they act as headings for.
 
 7. Add a black border just around the column that contains all the planet name row headers.
+
+Live web: https://gitthuma.github.io/structuring_planet_data/
